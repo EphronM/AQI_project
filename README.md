@@ -14,7 +14,7 @@ END-END model has been deployed on Heroku platform for public asses.
 The Whole data set was webscrapped from [TuTiempo](https://en.tutiempo.net/) a weather website.
 
 
->> * The URL https://en.tutiempo.net/climate/09-2020/ws-432950.html contains html pages where "09" means the month Sept and "2020" indicated the Year. The Last code "432950" presents the city code.
+> * The URL https://en.tutiempo.net/climate/09-2020/ws-432950.html contains html pages where "09" means the month Sept and "2020" indicated the Year. The Last code "432950" presents the city code.
 
 Based on these information, the HTML pages which contains the whole data based on every month was retrieved for the years 2016 - 2020 using python scripts
 

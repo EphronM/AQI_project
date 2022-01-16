@@ -11,7 +11,7 @@ END-END model has been deployed on Heroku platform for public asses.
 
 
 
-![home page](https://user-images.githubusercontent.com/94764266/149657817-330ab4bf-9e5d-4484-858f-bc5c446dff94.JPG)
+<center> ![home page](https://user-images.githubusercontent.com/94764266/149657817-330ab4bf-9e5d-4484-858f-bc5c446dff94.JPG) </center>
 
 ## Data Collection
 

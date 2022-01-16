@@ -9,6 +9,10 @@ END-END model has been deployed on Heroku platform for public asses.
 **[Site Link](https://airqualityindex9.herokuapp.com/)**
 
 
+
+
+![home page](https://user-images.githubusercontent.com/94764266/149657817-330ab4bf-9e5d-4484-858f-bc5c446dff94.JPG)
+
 ## Data Collection
 
 The Whole data set was webscrapped from [TuTiempo](https://en.tutiempo.net/) a weather website.
